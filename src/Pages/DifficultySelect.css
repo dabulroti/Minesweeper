@@ -1,0 +1,8 @@
+.difficulty-select-container {
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    margin: auto ;
+    padding: 5px;
+    /* display: inline; */
+}

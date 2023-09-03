@@ -1,0 +1,11 @@
+/* make the timer div occupy not more than the space it requires
+    and make it centered */
+.timer {
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 5px;
+    display: inline;
+}
+
